@@ -1,8 +1,8 @@
 # Site settings
-title: "hawalej.github.io"
+title: "hawalej.com"
 description: "personal webpage"
 baseurl: "" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: "https://hawalej.github.io"
+url: "https://hawalej.com"
 author: "Grzegorz Hawałej"
 
 # Build settings
